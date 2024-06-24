@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<?xml:stylesheet type="text/xsl" href="library.xsl" ?>
+<Library>
+    <Book>  
+	<Title>AWT</Title>   
+	<Author>CRISS BATES</Author>
+	<ISBNno>0124</ISBNno>
+	<Publisher>Wiley</Publisher>
+	<Edition>3</Edition>
+	<Price>Rs.200</Price>
+     </Book>
+     <Book>  
+	<Title>Management Science</Title>   
+	<Author>Dr.A.R.ARYASRI</Author><ISBNno>5431</ISBNno>
+	<Publisher>Lincage</Publisher>
+	<Edition>6</Edition>
+	<Price>Rs.175</Price>
+     </Book>
+     <Book>  
+	<Title>UNIX Programming</Title>   
+	<Author>STEVENS</Author>
+	<ISBNno>7815</ISBNno>
+	<Publisher>Pearson</Publisher>
+	<Edition>5</Edition>
+	<Price>Rs.250</Price>
+     </Book>
+     <Book>  
+	<Title>ACN</Title>   
+	<Author>FOROUZAN</Author>
+	<ISBNno>5815</ISBNno>
+	<Publisher>The McGraw-Hill</Publisher>
+	<Edition>4</Edition>
+	<Price>Rs.230</Price>
+     </Book>
+</Library>
